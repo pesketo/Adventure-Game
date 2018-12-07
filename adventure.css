@@ -1,0 +1,21 @@
+#game-container {
+	width: 850px;
+	margin: 0 auto;
+}
+
+body {
+	color: white;
+	margin: 0;
+	background-image: url("img/main-background.gif");
+	/* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+
+#houseImage {
+
+}
